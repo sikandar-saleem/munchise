@@ -1,0 +1,32 @@
+{
+  "cities": [
+    {
+      "title": "Lahore",
+      "isChecked": false
+    },
+    {
+      "title": "Faisalabad",
+      "isChecked": false
+    },
+    {
+      "title": "Gujranwala",
+      "isChecked": false
+    },
+    {
+      "title": "Hyderabad",
+      "isChecked": false
+    },
+    {
+      "title": "Sukkur",
+      "isChecked": false
+    },
+    {
+      "title": "Karachi",
+      "isChecked": false
+    },
+    {
+      "title": "Islamabad",
+      "isChecked": false
+    }
+  ]
+}

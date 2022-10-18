@@ -1,0 +1,7 @@
+{
+  "specialities": [
+    { "title": "Food", "isChecked": false },
+    { "title": "Grocery", "isChecked": false },
+    { "title": "Electrical", "isChecked": false }
+  ]
+}
